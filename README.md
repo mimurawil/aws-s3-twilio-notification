@@ -14,6 +14,7 @@ Another Serverless project... This time it's a SMS notification (using [Twilio](
     * Add your Twilio Account Token (AUTH_TOKEN)
     * Add your Twilio Phone Number (TWILIO_PHONE_NO)
     * Add the desired phone number to receive the SMS (PHONE_NO_TO_RECEIVE_SMS)
+* Run `serverless deploy -v`
 * Test this function by adding any file in the bucket
 
 ## How To Remove The Project
